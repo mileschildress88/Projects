@@ -1,0 +1,10 @@
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\bin\Debug\ChildressMilesPushMe.exe.config
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\bin\Debug\ChildressMilesPushMe.exe
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\bin\Debug\ChildressMilesPushMe.pdb
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\obj\Debug\ChildressMilesPushMe.csproj.AssemblyReference.cache
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\obj\Debug\ChildressMilesPushMe.FRMPushMe.resources
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\obj\Debug\ChildressMilesPushMe.Properties.Resources.resources
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\obj\Debug\ChildressMilesPushMe.csproj.GenerateResource.cache
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\obj\Debug\ChildressMilesPushMe.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\obj\Debug\ChildressMilesPushMe.exe
+D:\Visual Studio\source\repos\ChildressMilesPushMe\ChildressMilesPushMe\obj\Debug\ChildressMilesPushMe.pdb
