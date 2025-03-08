@@ -1,0 +1,10 @@
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\bin\Debug\ChildressMilesIsPalindrome.exe.config
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\bin\Debug\ChildressMilesIsPalindrome.exe
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\bin\Debug\ChildressMilesIsPalindrome.pdb
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\obj\Debug\ChildressMilesIsPalindrome.csproj.AssemblyReference.cache
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\obj\Debug\ChildressMilesIsPalindrome.frmPalindrome.resources
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\obj\Debug\ChildressMilesIsPalindrome.Properties.Resources.resources
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\obj\Debug\ChildressMilesIsPalindrome.csproj.GenerateResource.cache
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\obj\Debug\ChildressMilesIsPalindrome.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\obj\Debug\ChildressMilesIsPalindrome.exe
+D:\Visual Studio\source\repos\ChildressMilesIsPalindrome\ChildressMilesIsPalindrome\obj\Debug\ChildressMilesIsPalindrome.pdb
